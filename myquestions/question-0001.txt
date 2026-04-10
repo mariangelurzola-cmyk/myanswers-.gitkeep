@@ -1,1 +1,4 @@
-
+Un ingeniero civil monitorea la carga (en kilonewtons) sobre una viga en 10 puntos. 
+Una viga se considera 'Crítica' si el promedio de carga supera un límite de seguridad.
+Escribe una función que reciba un array de NumPy con las cargas y el límite, 
+y devuelva True si la viga es crítica o False si es segura.
